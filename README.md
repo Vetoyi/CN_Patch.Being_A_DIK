@@ -82,8 +82,7 @@
 # :o:(必读:bangbang:)如何使用补丁
 **具体步骤：**
 
-<details><summary>将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary>
-> ![image]()
+**<details><summary>将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary>**
 > ![image]()</details>
 
 <details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出游戏文件夹(Being A DIK)；</summary>
