@@ -110,7 +110,7 @@
 > :green_circle:A：确认是否完成以下所有操作，如果全部都做到却还不行，再留言反馈：
 > 1. 根据[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)正确解压最新汉化补丁，别把文件放错位置，否则你可能会报错连游戏都打不开；
 > 2. 如果你无法确认自己Steam上的Being A DIK游戏本地文件夹中是否有其它汉化残留文件，请删除Being A DIK文件夹中的所有文件，重新下载游戏并安装本补丁(能确认则直接安装补丁即可)；
-> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/01.jpg)
+>> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/01.jpg)
 > 3. 以上两步骤均完成后，进游戏则应已有汉化，如为第一次使用本汉化补丁，切勿直接载入其它来源的旧档，否则易导致汉化不全、报错等问题，要载也只能是以本汉化(CN_Ver0.08及往后版本)进行游玩的存档，或者原版游玩的英语存档(但会导致汉化不全)，建议以新游戏开始游玩，享受较全面的汉化体验。</details>
 
 **<details><summary>:red_circle:Q：为什么我购买并安装了指南DLC，进游戏后点开始游戏或载入存档，画面总是显示“感谢你购买……按下'g'以继续.”，但不管怎么按`“g”键`却都没有反应，画面一直不动，但是对话仍在进行？</summary>**
