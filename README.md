@@ -202,24 +202,24 @@
 
 # :o:补丁封禁记录
 **<details><summary>B站专栏</summary>**
-> ![image]()
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%B0%81%E7%A6%81%E8%AE%B0%E5%BD%95/B%E7%AB%99%E4%B8%93%E6%A0%8F.png)
 </details>
 
 **<details><summary>B站视频</summary>**
-> ![image]()
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%B0%81%E7%A6%81%E8%AE%B0%E5%BD%95/B%E7%AB%99%E8%A7%86%E9%A2%91.png)
 </details>
 
 **<details><summary>Steam指南</summary>**
 > 指南删了没留封禁图，放张刚发布时的图意思下
-> ![image]()
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%B0%81%E7%A6%81%E8%AE%B0%E5%BD%95/Steam%E6%8C%87%E5%8D%97.png)
 </details>
 
 **<details><summary>Steam评测2</summary>**
-> ![image]()
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%B0%81%E7%A6%81%E8%AE%B0%E5%BD%95/Steam%E8%AF%84%E6%B5%8B2.png)
 </details>
 
 **<details><summary>Steam评测1</summary>**
-> ![image]()
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%B0%81%E7%A6%81%E8%AE%B0%E5%BD%95/Steam%E8%AF%84%E6%B5%8B1.png)
 </details>
 
 ***
