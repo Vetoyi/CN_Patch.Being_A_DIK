@@ -1,6 +1,6 @@
 (Steam汉化补丁) Being A DIK
 # 前言
-- <details><summary>:lock:原专栏前言(2022.04.20 - 2022.07.04)</summary>  
+<details><summary>:lock:原专栏前言(2022.04.20 - 2022.07.04)</summary>  
 <p>
    
 ```ruby
