@@ -3,10 +3,7 @@
 <details><summary>:lock:原专栏前言(2022.04.20 - 2022.07.04)</summary>  
 <p>
 
-```
-ruby
-```
-</p>
+```ruby```</p>
 </details>
 - <details><summary>:lock:原指南前言(2022.03.25 - 2022.03.25)</summary>  
   <p>
