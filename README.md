@@ -27,16 +27,16 @@
 # :o:补丁介绍
 本补丁汉化范围为[Season1本体(EP1-4)](https://store.steampowered.com/app/1126320) + [Season2DLC(EP5-8)](https://store.steampowered.com/app/1215820)总8章：<br>EP1-6汉化文件取自火鸟字幕组0.6.1版，所有文件代码已逐一校对至0.8.2版并顺便改一些我碰巧看见的错误；<br>EP7-8部分机翻汉化文件取自ACG0.8.1，其余由我自行翻译(主要为新手机、各种自由模式小游戏等)。
 <br><br><br>
-**:white_check_mark:解锁Steam成就**
+**:heavy_check_mark:解锁Steam成就**
 - 理论全可解，但没打全成就故不确定，如有发现解不了的请留言告知我。
 
-**:white_check_mark:存档兼容(原版&汉化版)**
+**:heavy_check_mark:存档兼容(原版&汉化版)**
 - 存档节点或不一致，进度会倒退一些或保持原样，少数情况下可能报错(不确定)，盗版不通用。
 
-**:white_check_mark:官方指南DLC可用**
+**:heavy_check_mark:官方指南DLC可用**
 - 经验证，本补丁与[Season1指南DLC](https://store.steampowered.com/app/1223490)、[Season2指南DLC](https://store.steampowered.com/app/1631620)均适配且无bug，但指南DLC本身存在一些游玩相关问题，如果你购买并安装指南DLC后在游玩时遇到问题，请认真看[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)，里面有一些指南相关问题的解决方案。
 
-**:white_check_mark:目前已知bug(如有额外发现请反馈)**
+**:heavy_check_mark:目前已知bug(如有额外发现请反馈)**
 - 暂无
 
 ***
@@ -143,14 +143,14 @@
 
 **<details><summary>:red_circle:Q：为什么我购买并安装了指南DLC，进游戏后点开始游戏或载入存档，画面总是显示“感谢你购买……按下'g'以继续.”，但不管怎么按`“g”键`却都没有反应，画面一直不动，但是对话仍在进行？</summary>**
 > :green_circle:A：目前测试结论为：与补丁无关，但是与系统输入法有关。请确保你有如下图所示英语键盘的切换选项(如果没有可以百度如何装)，切换并保持在英语键盘，再进游戏就可以正常按`“g”键`继续游戏；如果你不愿意装英语键盘，请试着把你的输入法状态调整为英语，再进游戏也许能正常按`“g”键`继续游戏，但如果不行请花时间研究一下英语键盘。
-> <br><br>**:warning:注：本补丁并没有涉及官方指南DLC的内容汉化，别问为什么是英文。**
+> <br><br>**:warning:注：本补丁并没有涉及官方指南DLC的内容汉化，别问为什么是英文:bangbang:**
 >> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/02.jpg)
 >> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/03.jpg)</details>
 
 **<details><summary>:red_circle:Q：为什么我购买并安装了指南DLC，进游戏后开始游戏或载入存档，画面总是显示“感谢你购买……按下'g'以继续.”，但按`“g”键`却跳出一个灰白色的功能调整页面？</summary>**
 > :green_circle:A：确保你没有开启大写锁定及中文输入法，要是开了大写锁定再按`“g”键`就会进功能页(`“Shift+g”键`也会)，这里通常是用来调整画面渲染方式的，如果你的游戏画面时常卡顿滞留，就可以在这里进行调试；但如果你并不需要而只是误进，那么每次一进到该页面就请直接点击下方的`“返回游戏/Return”`退出该页面。
 > 通常只需要关闭大写锁定就能避免该问题，但如果还是不行，请试着重复按几遍`“Shift”键`或`“Shift+Tab”键`，或者按一遍`“Shift+g”`键也可以，在这之后再按`“g”键`应该就正常了。
-> <br><br>**:warning:注：本补丁并没有涉及官方指南DLC的内容汉化，别问为什么是英文。**
+> <br><br>**:warning:注：本补丁并没有涉及官方指南DLC的内容汉化，别问为什么是英文:bangbang:**
 >> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/04.jpg)</details>
 
 **<details><summary>:red_circle:Q：为什么我在游戏里按任何按键都没有反应？</summary>**
