@@ -82,7 +82,7 @@
 # :o:(必读:bangbang:)如何使用补丁
 **具体步骤：**
 
-<details><summary>1. 将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary><br>
+<details><summary>将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary><br>
 > ![image]()
 > ![image]()</details>
 
