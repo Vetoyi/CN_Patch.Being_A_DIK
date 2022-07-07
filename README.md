@@ -1,5 +1,5 @@
 ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E5%B0%81%E9%9D%A2.png)
-# :video_game:Being A DIK - Steam汉化补丁
+# :video_game:Being A DIK:video_game:Steam汉化补丁
 :video_game:我的大学生活／我在兄弟会的时光／巅峰人生
 
 # :o:前言
