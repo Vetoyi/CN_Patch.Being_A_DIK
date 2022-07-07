@@ -83,15 +83,15 @@
 **具体步骤：**
 1. 将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/1.jpg)
-![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/2.jpg)
-<br>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出游戏文件夹(Being A DIK)；<br>
-![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/3.jpg)
-![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/4.jpg)
-<br>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹(Being A DIK)，在跳出提示框后选择替换所有文件；<br>
-![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
-<br>4. 进入游戏(如上述步骤操作均正确，则进游戏已汉化成功)，在`“游戏设置”`中找到`“语言选项”`，单点启用`“简体中文”(启用=橙色，禁用=灰色)`，会需要几秒响应时间；如安装补丁后初开游戏，该选项就已启用的话，请禁用该选项并再重新启用一遍，否则可能导致EP7-8未成功汉化；如决定不再使用本补丁或有意还原原版，请在卸载本补丁之前禁用该`“简体中文”`选项，以免游戏后续出错(虽说似乎并不会)。<br>
-![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/6.jpg)
-![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/7.jpg)
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/2.jpg)
+2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出游戏文件夹(Being A DIK)；
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/3.jpg)
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/4.jpg)
+3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹(Being A DIK)，在跳出提示框后选择替换所有文件；
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
+4. 进入游戏(如上述步骤操作均正确，则进游戏已汉化成功)，在`“游戏设置”`中找到`“语言选项”`，单点启用`“简体中文”(启用=橙色，禁用=灰色)`，会需要几秒响应时间；如安装补丁后初开游戏，该选项就已启用的话，请禁用该选项并再重新启用一遍，否则可能导致EP7-8未成功汉化；如决定不再使用本补丁或有意还原原版，请在卸载本补丁之前禁用该`“简体中文”`选项，以免游戏后续出错(虽说似乎并不会)。
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/6.jpg)
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/7.jpg)
 
 ## :warning:【重要:bangbang:】如果你没有购买安装Season2，请在安装完汉化补丁后，根据以下步骤删除部分补丁文件，否则游戏将会存在报错；或者你也可以直接购买[Being A DIK - Season2 DLC](https://store.steampowered.com/app/1215820)，并在安装完DLC后再次解压汉化补丁，游戏即可正常游玩。
 
