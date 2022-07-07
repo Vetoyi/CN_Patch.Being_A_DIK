@@ -200,7 +200,7 @@
 
 ***
 
-# :o:补丁封禁记录
+# :o:补丁封禁历史
 **<details><summary>:lock:B站专栏(2022.04.20 - 2022.07.04)</summary>**
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%B0%81%E7%A6%81%E8%AE%B0%E5%BD%95/B%E7%AB%99%E4%B8%93%E6%A0%8F.png)
 </details>
