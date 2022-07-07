@@ -210,6 +210,7 @@
 </details>
 
 **<details><summary>Steam指南</summary>**
+> 指南删了没留封禁图，放张刚发布时的图意思下
 > ![image]()
 </details>
 
