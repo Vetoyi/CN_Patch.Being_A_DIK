@@ -197,4 +197,28 @@
 
 **<details><summary>:beginner:(2022.04.20)BAD.CN_Ver0.05(GameVer0.8.2)</summary>**
 - 首次发布补丁</details>
+
+***
+
+# 补丁封禁记录
+**<details><summary>B站专栏</summary>**
+> ![image]()
+</details>
+
+**<details><summary>B站视频</summary>**
+> ![image]()
+</details>
+
+**<details><summary>Steam指南</summary>**
+> ![image]()
+</details>
+
+**<details><summary>Steam评测2</summary>**
+> ![image]()
+</details>
+
+**<details><summary>Steam评测1</summary>**
+> ![image]()
+</details>
+
 ***
