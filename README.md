@@ -123,7 +123,7 @@
 > :green_circle:A：说明你下载的过程或者电脑环境有问题，可能是杀毒软件等因素，需要你自行研究，我也无能为力。</details>
 
 **<details><summary>:red_circle:Q：能推荐点其它类似的游戏吗？</summary>**
-> :green_circle:A：这个还是交给评论区的各位推荐吧，大家的阅历肯定比我要丰富。</details>
+> :green_circle:A：这个还是交给评论区的各位推荐吧，大家的黄油阅历肯定比我要丰富。</details>
 
 **<details><summary>:red_circle:Q：补丁为什么很久都不更新？</summary>**
 > :green_circle:A：摸鱼善哉，请勿催更，我不会保证有什么更新速度或者后续更新，甚至可能以后游戏出新版本导致补丁无法适配了我都不会更新，但既然现在能玩就抓紧好好享乐吧！</details>
