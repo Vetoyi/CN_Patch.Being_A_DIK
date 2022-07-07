@@ -3,7 +3,7 @@
 **<p align="center">:cn:：我的大学生活／我在兄弟会的时光／巅峰人生</p>**
 <p align="center">Steam正版汉化补丁，请支持正版游戏！</p>
 <p align="center">补丁后续更新请关注此Github库，该说明页也会同补丁一并更新</p>
-<p align="center">最新版本：【2022.04.20】CN_Ver0.08(GameVer0.8.2)</p>
+<p align="center">最新版本：(2022.04.20)BAD.CN_Ver0.08(GameVer0.8.2)</p>
 
 ***
 
@@ -182,20 +182,20 @@
 ***
 
 # :o:补丁更新记录
-**<details><summary>:beginner:【2022.04.20】CN_Ver0.08(GameVer0.8.2)</summary>**
+**<details><summary>:beginner:(2022.04.20)BAD.CN_Ver0.08(GameVer0.8.2)</summary>**
 - 已修复bug：EP7赛琪拳击游戏无法触发正确动画过程
 - 已修复bug：EP8宿舍派对自由模式无法结束
 - 已修复bug：EP8期中考试复习报错
 - 解决部分汉化问题</details>
 
-**<details><summary>:beginner:【2022.02.18】CN_Ver0.07(GameVer0.8.2)</summary>**
+**<details><summary>:beginner:(2022.04.20)BAD.CN_Ver0.08(GameVer0.8.2)</summary>**
 - 已修复bug：EP1初进玛雅宿舍后无法上床睡觉</details>
 
-**<details><summary>:beginner:【2022.02.11】CN_Ver0.06(GameVer0.8.2)</summary>**
+**<details><summary>:beginner:(2022.04.20)BAD.CN_Ver0.08(GameVer0.8.2)</summary>**
 - 添加简体中文设置选项，解决部分人群汉化不全问题
 - 补翻3处漏翻的任务指示</details>
 
-**<details><summary>:beginner:【2022.02.01】CN_Ver0.05(GameVer0.8.2)</summary>**
+**<details><summary>:beginner:(2022.04.20)BAD.CN_Ver0.08(GameVer0.8.2)</summary>**
 - 首次发布补丁</details>
 
 ***
