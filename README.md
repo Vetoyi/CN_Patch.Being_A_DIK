@@ -134,18 +134,18 @@
 ***
 
 # :o:补丁更新记录
-**<details><summary>:【2022.04.20】CN_Ver0.08(GameVer0.8.2)</summary>**
+**<details><summary>:no_entry:【2022.04.20】CN_Ver0.08(GameVer0.8.2)</summary>**
 - 已修复bug：EP7赛琪拳击游戏无法触发正确动画过程
 - 已修复bug：EP8宿舍派对自由模式无法结束
 - 已修复bug：EP8期中考试复习报错
 - 解决部分汉化问题</details>
 
-**<details><summary>:【2022.02.18】CN_Ver0.07(GameVer0.8.2)</summary>**
+**<details><summary>:no_entry:【2022.02.18】CN_Ver0.07(GameVer0.8.2)</summary>**
 - 已修复bug：EP1初进玛雅宿舍后无法上床睡觉</details>
 
-**<details><summary>:【2022.02.11】CN_Ver0.06(GameVer0.8.2)</summary>**
+**<details><summary>:no_entry:【2022.02.11】CN_Ver0.06(GameVer0.8.2)</summary>**
 - 添加简体中文设置选项，解决部分人群汉化不全问题
 - 补翻3处漏翻的任务指示</details>
 
-**<details><summary>:【2022.02.01】CN_Ver0.05(GameVer0.8.2)</summary>**
+**<details><summary>:no_entry:【2022.02.01】CN_Ver0.05(GameVer0.8.2)</summary>**
 - 首次发布补丁</details>
