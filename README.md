@@ -26,7 +26,7 @@
 - 存档节点或不一致，进度会倒退一些或保持原样，少数情况下可能报错(不确定)，盗版不通用。
 
 **:white_check_mark:官方指南DLC可用**
-- 经验证，本补丁与[Season1指南DLC](https://store.steampowered.com/app/1223490)、[Season2指南DLC](https://store.steampowered.com/app/1631620)均适配且无bug，但指南DLC本身存在一些游玩相关问题，如果你购买并安装指南DLC后在游玩时遇到问题，请认真看[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)，里面有一些指南相关问题的解决方案。
+- 经验证，本补丁与[Season1指南DLC](https://store.steampowered.com/app/1223490)、[Season2指南DLC](https://store.steampowered.com/app/1631620)均适配且无bug，但指南DLC本身存在一些游玩相关问题，如果你购买并安装指南DLC后在游玩时遇到问题，请认真看[目录“补丁快速Q&A”](README.md#o补丁快速qa)，里面有一些指南相关问题的解决方案。
 
 **:white_check_mark:目前已知bug(如有额外发现请反馈)**
 - 暂无
