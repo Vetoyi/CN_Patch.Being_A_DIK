@@ -25,4 +25,4 @@
 ### :white_check_mark:目前已知bug(如有额外发现请反馈)
 - 暂无
 ---
-# :o:(必读)使用前注意事项:o:
+# :exclamation:(必读)使用前注意事项:exclamation:
