@@ -1,10 +1,9 @@
 ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E5%B0%81%E9%9D%A2.png)
-更新时间：2022.04.20
-补丁版本：0.08
-适配Steam版本：0.8.2
-解压码：BAD
-下载地址：https://pan.baidu.com/s/1TojgVaMS6r7hqA5k9tmVtQ
-百度网盘(提取码：vas7)
+<br>更新时间：2022.04.20
+<br>补丁版本：0.08
+<br>适配Steam版本：0.8.2
+<br>下载地址
+<br>解压码：BAD
 
 ***
 
