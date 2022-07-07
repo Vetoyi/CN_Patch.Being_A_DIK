@@ -1,5 +1,5 @@
 (Steam汉化补丁) Being A DIK
-<details><summary>CLICK ME</summary>
+<details><summary>前言</summary>
 
 <p>
 
