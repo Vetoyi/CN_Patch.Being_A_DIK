@@ -82,6 +82,17 @@
 
 ***
 
+# :o:补丁下载
+**更新时间：2022.04.20
+补丁版本：0.08
+适配Steam版本：0.8.2
+解压码：BAD
+下载地址：[Github]()　[百度网盘(提取码：vas7)](https://pan.baidu.com/s/1TojgVaMS6r7hqA5k9tmVtQ)　[MediaFire](http://www.mediafire.com/file/ydcvly63ke40py8/%25282022.04.20%2529BAD.S1%25262_CN_Ver0.08%2528GameVer0.8.2%2529.rar/file)
+补丁安装：目录“(必读)如何使用补丁”
+汉化报错等问题：目录“补丁快速Q&A”**
+
+***
+
 # :o:(必读:bangbang:)如何使用补丁
 **具体步骤：**
 
