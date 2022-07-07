@@ -2,11 +2,11 @@
 
 ***
 
-**更新时间：2022.04.20
-<br>补丁版本：0.08
-<br>适配Steam版本：0.8.2
-<br>下载地址
-<br>解压码：BAD**
+**:black_square_button:更新时间：2022.04.20
+<br>:black_square_button:补丁版本：0.08
+<br>:black_square_button:适配Steam版本：0.8.2
+<br>:black_square_button:下载地址
+<br>:black_square_button:解压码：BAD**
 
 ***
 
