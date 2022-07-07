@@ -197,5 +197,3 @@
 
 **<details><summary>:beginner:(2022.04.20)BAD.CN_Ver0.05(GameVer0.8.2)</summary>**
 - 首次发布补丁</details>
-
-***
