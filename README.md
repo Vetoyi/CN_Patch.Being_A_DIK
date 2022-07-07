@@ -200,7 +200,7 @@
 
 ***
 
-# 补丁封禁记录
+# :o:补丁封禁记录
 **<details><summary>B站专栏</summary>**
 > ![image]()
 </details>
