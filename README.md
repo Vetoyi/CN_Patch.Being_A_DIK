@@ -1,6 +1,6 @@
 ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E5%B0%81%E9%9D%A2.png)
 # <p align="center">:video_game:Being A DIK (Steam汉化补丁)</p>
-<p align="center">我的大学生活／我在兄弟会的时光／巅峰人生</p>
+**<p align="center">我的大学生活／我在兄弟会的时光／巅峰人生</p>**
 
 # :o:前言
 **<details><summary>:lock:原专栏前言(2022.04.20 - 2022.07.04)</summary>**
