@@ -82,18 +82,19 @@
 # :o:(必读:bangbang:)如何使用补丁
 **具体步骤：**
 
-**<details><summary>将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary>**
-> ![image]()</details>
+**<details><summary>1. 将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary>**
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/1.jpg)
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/2.jpg)</details>
 
-<details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出游戏文件夹(Being A DIK)；</summary>
-> ![image]()
-> ![image]()</details>
+**<details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出游戏文件夹(Being A DIK)；</summary>**
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/3.jpg)
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/4.jpg)</details>
 
-<details><summary>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹(Being A DIK)，在跳出提示框后选择替换所有文件；</summary>
+**<details><summary>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹(Being A DIK)，在跳出提示框后选择替换所有文件；</summary>**
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
 </details>
 
-<details><summary>4. 进入游戏(如上述步骤操作均正确，则进游戏已汉化成功)，在`“游戏设置”`中找到`“语言选项”`，单点启用`“简体中文”(启用=橙色，禁用=灰色)`，会需要几秒响应时间；如安装补丁后初开游戏，该选项就已启用的话，请禁用该选项并再重新启用一遍，否则可能导致EP7-8未成功汉化；如决定不再使用本补丁或有意还原原版，请在卸载本补丁之前禁用该`“简体中文”`选项，以免游戏后续出错(虽说似乎并不会)。</summary>
+**<details><summary>4. 进入游戏(如上述步骤操作均正确，则进游戏已汉化成功)，在`“游戏设置”`中找到`“语言选项”`，单点启用`“简体中文”(启用=橙色，禁用=灰色)`，会需要几秒响应时间；如安装补丁后初开游戏，该选项就已启用的话，请禁用该选项并再重新启用一遍，否则可能导致EP7-8未成功汉化；如决定不再使用本补丁或有意还原原版，请在卸载本补丁之前禁用该`“简体中文”`选项，以免游戏后续出错(虽说似乎并不会)。</summary>**
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/6.jpg)
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/7.jpg)</details>
 
