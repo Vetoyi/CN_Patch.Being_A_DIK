@@ -224,5 +224,3 @@
 **<details><summary>:lock:Steam评测1(2020.11.26 - 2022.02.18)</summary>**
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%B0%81%E7%A6%81%E8%AE%B0%E5%BD%95/Steam%E8%AF%84%E6%B5%8B1.png)
 </details>
-
-***
