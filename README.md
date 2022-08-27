@@ -181,7 +181,7 @@
 
 # :o:补丁更新记录
 **<details><summary>:beginner:2022.XX.XX_BAD.CN_Ver0.09.GameVer0.8.3</summary>**
-- ???
+- ???</details>
 
 **<details><summary>:beginner:2022.04.20_BAD.CN_Ver0.08.GameVer0.8.2</summary>**
 - 已修复bug：EP7赛琪拳击游戏无法触发正确动画过程
