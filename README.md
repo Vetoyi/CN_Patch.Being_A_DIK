@@ -55,7 +55,7 @@
    - **主剧情对话、自由模式对话、性别研究课、与玫瑰夫人对话、部分短信回复**；
    - 以上文件均取自ACG18机翻汉化，漏翻、人名不一致等问题很多，我只能说能玩但别期待是什么精翻，不存在的，而且未来我也不会尝试自翻主剧情，只能等更高质量文本出现再说，其余的那些以后可能会慢慢更新解决，主要我现在不太想再整了。
 5. 图片汉化方面EP1-6沿用火鸟素材，少数由我补翻；EP7-8由我翻译完毕，仅剩余以下内容：
-   - 收集奖励中图片鉴赏相关功能按钮(脱衣服等)；
+   - ???
    - 我认为没必要：ep8提伯尔特报纸(太多)、ep8主角吉他弹奏纪念图、结局Season3预告图、结局作者推特指路图。
 <br>
 如有发现除我提及以外我缺漏的，请留言告知我。
@@ -116,7 +116,7 @@
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
 </details>
 
-**<details><summary>4. 进入游戏(如上述步骤操作均正确，则进游戏已汉化成功)，在`“游戏设置”`中找到`“语言选项”`，单点启用`“简体中文”(启用=橙色，禁用=灰色)`，会需要几秒响应时间；如安装补丁后初开游戏，该选项就已启用的话，请禁用该选项并再重新启用一遍，否则可能导致EP7-8未成功汉化；如决定不再使用本补丁或有意还原原版，请在卸载本补丁之前禁用该`“简体中文”`选项，以免游戏后续出错(虽说似乎并不会)。</summary>**
+**<details><summary>4. 进入游戏，如上述步骤操作均正确，则汉化成功。</summary>**
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/6.jpg)
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/7.jpg)</details>
 
@@ -162,11 +162,6 @@
 **<details><summary>:red_circle:Q：为什么我汉化好了，但一到EP5就全程黑屏，左上角出现红色代码报错？</summary>**
 > :green_circle:A：因为本体只包含了EP1-4，而EP5-8则在Season2中，如果你只购买了本体而没有购买Season2，游戏就会出错，因为找不到DLC文件。只需购买[Being A DIK - Season2 DLC](https://store.steampowered.com/app/1215820)并在安装完DLC后再次解压汉化补丁，就能解决该报错继续游玩Season2；如果你不想购买该DLC，请根据[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#warning重要bangbang如果你没有购买安装season2请在安装完汉化补丁后根据以下步骤删除部分补丁文件否则游戏将会存在报错或者你也可以直接购买being-a-dik---season2-dlc并在安装完dlc后再次解压汉化补丁游戏即可正常游玩)删除对应补丁文件，放弃游玩Season2。</details>
 
-**<details><summary>:red_circle:Q：为什么我的EP1-6都有汉化，但EP7-8却是英文？</summary>**
-> :green_circle:A：进入游戏，在`“游戏设置”`中找到`“语言选项”`，单点启用`“简体中文”(启用=橙色，禁用=灰色)`，会需要几秒响应时间；如安装补丁后初开游戏，该选项就已启用的话，请禁用该选项并再重新启用一遍，否则可能导致EP7-8未成功汉化；如决定不再使用本补丁或有意还原原版，请在卸载本补丁之前禁用该`“简体中文”`选项，以免游戏后续出错(虽说似乎并不会)。
->> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/05.jpg)
->> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/06.jpg)</details>
-
 **<details><summary>:red_circle:Q：下载好补丁压缩包后，里面那个文件要怎么打开？</summary>**
 > :green_circle:A：百度“如何更改文件扩展名”，学会之后将下载好的补丁压缩包里的文件的扩展名改为rar，并对其再次解压得到最终压缩包；如果你连压缩包都打不开，请百度并下载个压缩包软件。</details>
 
@@ -185,6 +180,9 @@
 ***
 
 # :o:补丁更新记录
+**<details><summary>:beginner:2022.XX.XX_BAD.CN_Ver0.09.GameVer0.8.3</summary>**
+- ???
+
 **<details><summary>:beginner:2022.04.20_BAD.CN_Ver0.08.GameVer0.8.2</summary>**
 - 已修复bug：EP7赛琪拳击游戏无法触发正确动画过程
 - 已修复bug：EP8宿舍派对自由模式无法结束
