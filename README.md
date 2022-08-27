@@ -94,7 +94,7 @@
 <br>补丁版本：0.08
 <br>适配Steam版本：0.8.2(最新：2022.01.06)
 <br>解压码：BAD
-<br>下载地址：[百度网盘(提取码2g69)](https://pan.baidu.com/s/1Vj_uVsCOVcv0Hsc3c3vMmw)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
+<br>下载地址：[百度网盘(提取码2g69)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
@@ -116,7 +116,9 @@
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
 </details>
 
-**<summary>4. 进入游戏，如上述步骤操作均正确，则汉化成功。</summary>**
+**<details><summary>4. 进入游戏，如上述步骤操作均正确，则汉化成功。</summary>**
+> ![image]()
+</details>
 
 ## :warning:【重要:bangbang:】如果你没有购买安装Season2，请在安装完汉化补丁后，根据以下步骤删除部分补丁文件，否则游戏将会存在报错；或者你也可以直接购买[Being A DIK - Season2 DLC](https://store.steampowered.com/app/1215820)，并在安装完DLC后再次解压汉化补丁，游戏即可正常游玩。
 
