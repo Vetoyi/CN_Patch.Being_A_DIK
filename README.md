@@ -116,9 +116,7 @@
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
 </details>
 
-**<details><summary>4. 进入游戏，如上述步骤操作均正确，则汉化成功。</summary>**
-> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/6.jpg)
-> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/7.jpg)</details>
+**<summary>4. 进入游戏，如上述步骤操作均正确，则汉化成功。</summary>**
 
 ## :warning:【重要:bangbang:】如果你没有购买安装Season2，请在安装完汉化补丁后，根据以下步骤删除部分补丁文件，否则游戏将会存在报错；或者你也可以直接购买[Being A DIK - Season2 DLC](https://store.steampowered.com/app/1215820)，并在安装完DLC后再次解压汉化补丁，游戏即可正常游玩。
 
