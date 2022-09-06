@@ -36,6 +36,10 @@
 **:heavy_check_mark:存档兼容(原版&汉化版)**
 - 存档节点或不一致，进度会倒退一些或保持原样，少数情况下可能报错(不确定)，盗版不通用。
 
+**:heavy_check_mark:恢复版权音乐**
+- 包含7首The Friday Prophets的相关版权音乐：<br>(all_the_roads，amsterdam，amsterdam_intro，guardian_angel，punk_rock_flu，seed_of_doubt，social_wreck)
+<br>**出于最佳游玩体验考虑，未来汉化补丁均会保留对上述版权音乐的相关更新。**
+
 **:heavy_check_mark:官方指南DLC可用**
 - 经验证，本补丁与[Season1指南DLC](https://store.steampowered.com/app/1223490)、[Season2指南DLC](https://store.steampowered.com/app/1631620)均适配且无bug，但指南DLC本身存在一些游玩相关问题，如果你购买并安装指南DLC后在游玩时遇到问题，请认真看[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)，里面有一些指南相关问题的解决方案。
 
