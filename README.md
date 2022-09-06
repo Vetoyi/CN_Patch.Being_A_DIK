@@ -28,7 +28,7 @@
 ***
 
 # :o:补丁介绍
-本补丁汉化范围为[Season1本体(EP1-4)](https://store.steampowered.com/app/1126320) + [Season2DLC(EP5-8)](https://store.steampowered.com/app/1215820)总8章：<br>EP1-6原汉化文件取自火鸟字幕组0.6.1版，EP7-8部分机翻汉化文件取自ACG0.8.1，其余汉化则均由我进行补完。<br>所有文件代码均已逐一校对至游戏最新版本，并仍在不断修改完善汉化质量。
+本补丁汉化范围为[Season1本体(EP1-4)](https://store.steampowered.com/app/1126320) + [Season2DLC(EP5-8)](https://store.steampowered.com/app/1215820)总8章：<br>EP1-6原汉化文件取自火鸟字幕组0.6.1版，EP7-8部分机翻汉化文件取自ACG0.8.1，其余文件则均由我进行汉化补完。<br>所有文件代码均已逐一校对至游戏最新版本，并仍在不断修改完善汉化质量。
 <br><br><br>
 **:heavy_check_mark:解锁Steam成就**
 - 理论全可解，但没打全成就故不确定，如有发现解不了的请留言告知我。
