@@ -182,7 +182,7 @@
 - ???
 - 所有文件代码均已跟进更新至0.8.3版本。
 - 移除简体中文语言设置选项，改为默认启用。
-- 重新添加0.8.3版本更新后移除的7首The Friday Prophets相关版权音乐（all_the_roads，amsterdam，amsterdam_intro，guardian_angel，punk_rock_flu，seed_of_doubt，social_wreck），在跟进0.8.3版本更新的同时加入0.8.2版本中版权音乐涉及代码，保持游戏流程内BGM播放安排与0.8.2一致。<br>出于最佳游玩体验考虑，未来汉化补丁均会保留上述版权音乐。
+- 重新添加0.8.3版本更新后移除的7首The Friday Prophets相关版权音乐：<br>（all_the_roads，amsterdam，amsterdam_intro，guardian_angel，punk_rock_flu，seed_of_doubt，social_wreck）<br>在跟进0.8.3版本更新的同时加入0.8.2版本中版权音乐涉及代码，保持游戏流程内BGM播放安排与0.8.2一致。<br>出于最佳游玩体验考虑，未来汉化补丁均会保留上述版权音乐。
 - 添加&修改共252张图片翻译（主菜单及部分界面功能按钮、数学考试、2D艺术封面、滑滑、叫鸡、手机应用界面、特殊渲染鉴赏功能按钮、教程/提示）。</details>
 
 **<details><summary>:beginner:2022.04.20_BAD.CN_Ver0.08.GameVer0.8.2</summary>**
