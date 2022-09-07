@@ -97,7 +97,7 @@
 <br>补丁版本：0.08
 <br>适配Steam版本：0.8.2(最新：2022.01.06)
 <br>解压码：BAD
-<br>下载地址：[百度网盘(提取码2g69)](https://pan.baidu.com/s/1Vj_uVsCOVcv0Hsc3c3vMmw)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
+<br>下载地址：[百度网盘(提取码2g69)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
@@ -185,7 +185,7 @@
 - ???
 - 所有文件代码均已跟进更新至0.8.3版本。
 - 移除简体中文语言设置选项，改为默认启用。
-- 修改EP7-8新手机人物简介翻译，以更贴近英语原意<br>**该项更新需重开EP7才能生效(从EP6结尾章节报告处开始往下玩)**
+- 修改EP7-8新手机人物简介翻译，以更贴近英语原意。<br>**注：该项更新需重开EP7才能生效(从EP6结尾章节报告处开始往下玩)！**
 - 重新添加0.8.3版本更新后移除的7首The Friday Prophets相关版权音乐：<br>(all_the_roads，amsterdam，amsterdam_intro，guardian_angel，punk_rock_flu，seed_of_doubt，social_wreck)<br>在跟进0.8.3版本更新的同时加入0.8.2版本中版权音乐涉及代码，保持游戏流程内BGM播放安排与0.8.2一致。<br>**出于最佳游玩体验考虑，未来汉化补丁均会保持对上述版权音乐的相关更新。**
 - 添加&修改共252张图片翻译：<br>(主菜单及部分界面功能按钮、数学考试、2D艺术封面、滑滑、叫鸡、手机应用界面、特殊渲染鉴赏功能按钮、教程/提示)<br>属于不说可能都察觉不到的更新。</details>
 
