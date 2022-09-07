@@ -93,11 +93,11 @@
 ***
 
 # :o:补丁下载
-**更新时间：2022.04.20
-<br>补丁版本：0.08
-<br>适配Steam版本：0.8.2(最新：2022.01.06)
-<br>解压码：BAD
-<br>下载地址：[百度网盘(提取码2g69)](https://pan.baidu.com/s/1Vj_uVsCOVcv0Hsc3c3vMmw)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
+**更新时间：2022.09.07
+<br>补丁版本：0.09
+<br>适配Steam版本：0.8.3(最新：2022.08.19)
+<br>解压码：vetoy
+<br>下载地址：[百度网盘(提取码w55i)](https://pan.baidu.com/s/1NphtrHvOm-CNbMwEMJkcjg)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
