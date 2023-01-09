@@ -93,8 +93,8 @@
 ***
 
 # :o:补丁下载
-**补丁更新日期：2022.09.07
-<br>补丁当前版本：0.09
+**更新日期：2022.09.07
+<br>补丁版本：0.09
 <br>适配Steam版本：0.8.3
 <br>适配Depots Update：2022.11.14
 <br>检查Depots Update：[Season1](https://steamdb.info/depot/1126321/manifests/)　[Season2](https://steamdb.info/depot/1215820/manifests/)　[Guide1](https://steamdb.info/depot/1223490/manifests/)　[Guide2](https://steamdb.info/depot/1631620/manifests/)
