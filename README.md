@@ -95,7 +95,7 @@
 # :o:补丁下载
 **更新时间：2022.09.07
 <br>补丁版本：0.09
-<br>适配Steam版本：0.8.3(Depots Update: 2022.11.14)
+<br>适配Steam版本：0.8.3(2022.11.14 - Depots Update)
 <br>解压码：vetoy
 <br>下载地址：[百度网盘(提取码w55i)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)”
