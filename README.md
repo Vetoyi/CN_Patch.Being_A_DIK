@@ -96,7 +96,7 @@
 **更新日期：2022.09.07
 <br>补丁版本：0.09
 <br>适配Steam版本：0.8.3
-<br>适配Depots Update：2022.11.14
+<br>适配Depots Update：2022.11.14 (14 November 2022 – 14:00:48 UTC)
 <br>检查Depots Update：[Season1](https://steamdb.info/depot/1126321/manifests/)　[Season2](https://steamdb.info/depot/1215820/manifests/)　[Guide1](https://steamdb.info/depot/1223490/manifests/)　[Guide2](https://steamdb.info/depot/1631620/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码w55i)](https://pan.baidu.com/s/1NphtrHvOm-CNbMwEMJkcjg)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
