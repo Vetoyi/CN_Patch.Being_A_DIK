@@ -100,7 +100,7 @@
 <br>检查Depots Update：[[Game]Season1](https://steamdb.info/depot/1126321/manifests/)　[[DLC]Season2](https://steamdb.info/depot/1215820/manifests/)　[[DLC]Guide1](https://steamdb.info/depot/1223490/manifests/)　[[DLC]Guide2](https://steamdb.info/depot/1631620/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码w55i)](https://pan.baidu.com/s/1NphtrHvOm-CNbMwEMJkcjg)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
-<br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)”
+<br>补丁安装：[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
 
