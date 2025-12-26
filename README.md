@@ -44,7 +44,8 @@
 - 经验证，本补丁与[Season1指南DLC](https://store.steampowered.com/app/1223490)、[Season2指南DLC](https://store.steampowered.com/app/1631620)均适配且无bug，但指南DLC本身存在一些游玩相关问题，如果你购买并安装指南DLC后在游玩时遇到问题，请认真看[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o补丁快速qa)，里面有一些指南相关问题的解决方案。
 
 **:heavy_check_mark:目前已知bug(如有额外发现请反馈)**
-- 暂无
+- (未来修复) EP6食堂午餐时不在赛琪路线并选择"和赛琪&奎因一起吃午餐"，在赛琪离座并拒绝沟通后，剧情被提前跳转至DIK豪宅清理工作，导致错过吉尔练琴&瑞娜奎因交谈剧情
+- MAC端字体乱码无法正常显示，可能是字体文件不支持，未来会测试看能否解决。
 
 ***
 
