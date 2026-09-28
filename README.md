@@ -98,7 +98,7 @@
 <br>补丁版本：0.09
 <br>适配Steam版本：0.8.3
 <br>适配Depots Update：2026.08.26 (26 August 2026 – 14:03:28 UTC)
-<br>检查Depots Update：[[Game]Season1](https://steamdb.info/depot/1126321/manifests/)　[[DLC]Season2](https://steamdb.info/depot/1215820/manifests/)　~~[[DLC]Season3](https://steamdb.info/depot/1807120/manifests/)~~　[[DLC]Guide1](https://steamdb.info/depot/1223490/manifests/)　[[DLC]Guide2](https://steamdb.info/depot/1631620/manifests/)
+<br>检查Depots Update：[[Game]Season1](https://steamdb.info/depot/1126321/manifests/)　[[DLC]Season2](https://steamdb.info/depot/1215820/manifests/)　~~[[DLC]Season3](https://steamdb.info/depot/1807120/manifests/)~~　[[DLC]Guide1](https://steamdb.info/depot/1223490/manifests/)　[[DLC]Guide2](https://steamdb.info/depot/1631620/manifests/)　~~[DLC]Guide3](https://steamdb.info/depot/2220920/manifests/)~~
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码w55i)](https://pan.baidu.com/s/1NphtrHvOm-CNbMwEMJkcjg)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.Being_A_DIK#o必读bangbang如何使用补丁)
